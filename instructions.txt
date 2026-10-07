@@ -1,0 +1,41 @@
+Recriee o site apresentado no protótipo do Figma (pasta C:\Users\Lavinia\Downloads\Web of Arquitects\Web-of-Arquitects\Design), utilizando React + Vite + React Router:
+
+
+Rotas obrigatórias:
+O projeto deverá possuir, no mínimo, as seguintes rotas{
+
+/ → Home
+/projetos → Projetos
+/projetos/:id → Detalhes do Projeto
+/sobre → Sobre
+/contato → Contato
+A rota /projetos/:id deverá ser dinâmica, permitindo acessar os detalhes de diferentes projetos da empresa de arquitetura (as páginas não precisam ter conteúdo, porém a rota/endereçamento deve ser criado).
+}
+ Requisitos
+- Utilizar React + Vite;
+- Utilizar React Router para as rotas e navegação;
+- Criar componentes reutilizáveis;
+- Implementar navegação entre as páginas;
+- Reproduzir o layout do protótipo, buscando fidelidade visual;
+- Organizar adequadamente pastas, componentes e arquivos;
+- Garantir que o site seja responsivo.
+Entrega:
+A entrega deverá ser feita por meio do link de um repositório PÚBLICO no GitHub.
+
+O repositório deverá conter:
+
+o código completo do projeto;
+o nome dos integrantes do grupo;
+arquivo READ.ME com a descrição do projeto.
+- Todo o repositório e o código-fonte serão analisados. A avaliação não será baseada apenas no resultado visual, mas também na utilização correta do React Router e na organização do projeto.
+- Entregas atrasadas terão a menção diminuída. 
+
+
+
+
+ Critérios de avaliação
+Atendimento às Normas: Cumprimento das rotas, tecnologias, requisitos e orientações estabelecidas para a realização e entrega da atividade.
+Relacionamento de Conceitos: Aplicação adequada dos conceitos de React, componentes, React Router, rotas dinâmicas e navegação entre páginas.
+Execução do Produto: Funcionamento correto do site, das rotas e da navegação, com código organizado e projeto executável sem erros.
+Adequação ao Protótipo: Fidelidade ao layout do Figma, considerando estrutura, organização das informações, elementos visuais e responsividade.
+Criatividade na Resolução de Problemas: Utilização de soluções criativas e recursos adicionais que contribuam para a funcionalidade, organização e qualidade do projeto.
